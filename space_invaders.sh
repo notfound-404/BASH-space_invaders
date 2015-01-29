@@ -280,9 +280,6 @@ _exit(){
 ####################################################
 source spacerc
 # SOME VARIABLES
-music="OFF"
-nb_bullet=0
-SCORE=0
 H=$(tput lines)
 L=$(tput cols)
 ML=$((L/2))
