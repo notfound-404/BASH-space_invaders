@@ -1,6 +1,6 @@
 BASH-space_invaders
 ===================
-../03/2014  © Boris Ntfd.
+../03/2014  © Ntfd.
 
 
 Informations:
